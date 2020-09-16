@@ -1,21 +1,21 @@
 [
   {
-    name: 'San Andreas',
+    "name": "San Andreas",
   },
   {
-    name: 'Harry Potter',
+    "name": "Harry Potter",
   },
   {
-    name: 'Murder Mystery',
+    "name": "Murder Mystery",
   },
   {
-    name: 'Titanic',
+    "name": "Titanic",
   },
   {
-    name: 'Elite',
+    "name": "Elite",
   },
   {
-    name: 'Nun',
+    "name": "Nun",
   },
   
 ]
